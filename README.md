@@ -8,14 +8,14 @@ This is an example on how to implement a body detection using Opencv default Haa
   
  - Sample 
    
-   ![alt text](https://github.com/moadmmh/Python-Heaven/blob/master/Body_Detection/sample1.jpg)
+   ![alt text](sample1.jpg)
   
  
  - Output 
    
-   ![alt text](https://github.com/moadmmh/Python-Heaven/blob/master/Body_Detection/Output_frame.PNG)
+   ![alt text](Output_frame.png)
   
  
  - Saved Picture  
    
-   ![alt text](https://github.com/moadmmh/Python-Heaven/blob/master/Body_Detection/out_sample.jpg)
+   ![alt text](out_sample.jpg)
